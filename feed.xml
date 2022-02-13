@@ -3,10 +3,10 @@
   <channel>
     <title>Seikiatsu</title>
     <description>Welcome to Seikiatsu. Kia&apos;s diary about her seikatsu in Japan.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Feb 2022 15:27:25 +0900</pubDate>
-    <lastBuildDate>Sun, 13 Feb 2022 15:27:25 +0900</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Feb 2022 17:50:23 +0900</pubDate>
+    <lastBuildDate>Sun, 13 Feb 2022 17:50:23 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -259,8 +259,8 @@
 &lt;p&gt;As I arrived home, it felt like I was gone for a very long time. I think it means that I made full use of my two days one night holiday. I did many things, and I was alone. Being alone with my thoughts the whole time, helped me hear my intuition/my heart, which I probably neglected recently. That being said, I think my very cluttered brain came home more organized. In a sense, I fulfilled the purpose of taking a paid leave.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Jan 2022 00:00:00 +0900</pubDate>
-        <link>/kamakura-enoshima/</link>
-        <guid isPermaLink="true">/kamakura-enoshima/</guid>
+        <link>http://localhost:4000/kamakura-enoshima/</link>
+        <guid isPermaLink="true">http://localhost:4000/kamakura-enoshima/</guid>
         
         
         <category>Travel</category>
@@ -314,8 +314,8 @@
 &lt;p&gt;Overall, I enjoyed experiencing Japanese culture such as shodo. Thanks to the calligrapher Kisen-san’s bubbly personality, we also felt cheerful. I learned many things about shodo, making me want to write more kanji characters in the future.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Jan 2022 00:00:00 +0900</pubDate>
-        <link>/first-shodo/</link>
-        <guid isPermaLink="true">/first-shodo/</guid>
+        <link>http://localhost:4000/first-shodo/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-shodo/</guid>
         
         
         <category>Culture</category>
@@ -328,276 +328,278 @@
 
 &lt;h3 id=&quot;the-day-before&quot;&gt;The Day Before&lt;/h3&gt;
 
-&lt;p&gt;前日準備できました！バッグが結構大きいのでカメラバッグも中に入れました。写真のとおり荷物の横にあるブーツは2年ぶりに使うからすごく楽しみにしています。&lt;/p&gt;
+&lt;p&gt;I finished packing my pack the day before. My backpack was pretty big so I also slipped my whole camera bag inside it. I haven’t worn the white boots in the picture for two years already so I was excited as I was going to be able to wear them again on this trip.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/前日-00.jpg&quot; alt=&quot;バッグ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/前日-00.jpg&quot; alt=&quot;Bag&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ということで、2年ぶりに雪が多い場所に行くから覚悟するために明日の天気予報を調べてみました。すごく寒いから少し緊張しています。&lt;/p&gt;
+&lt;p&gt;In other words, I haven’t been to a snowy place for two years already. I checked the weather forecast to mentally prepare for that. It seems that it will be freezing so I was a bit nervous.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/前日-01.png&quot; alt=&quot;天気予報&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/前日-01.png&quot; alt=&quot;Weather forecast&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;明日の出発は6時なのでアラームを5時に設定しておきました。&lt;/p&gt;
+&lt;p&gt;I will leave at 6 am the next day so I set my alarm to 5 am.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/前日-02.png&quot; alt=&quot;アラーム&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/前日-02.png&quot; alt=&quot;Alarm&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;一日目&quot;&gt;一日目&lt;/h1&gt;
+&lt;h1 id=&quot;the-first-day&quot;&gt;The First Day&lt;/h1&gt;
 
-&lt;p&gt;出発です! まだ暗いですが一日を満喫するため早く到着しようと思っていました。&lt;/p&gt;
+&lt;p&gt;Let’s go! It was still dark but I wanted to make full use of the day so I decided to leave early.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/一日目-00.jpg&quot; alt=&quot;電車&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/一日目-00.jpg&quot; alt=&quot;Train&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;まずは参加者と上野駅の新幹線ホームで集合します。&lt;/p&gt;
+&lt;p&gt;First of all, I was going to meet with my company for this trip at Ueno Station’s Shinkansen (bullet train) platform.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;電車で思ったこと&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Thoughts while commuting&lt;/strong&gt;&lt;/p&gt;
 
-  &lt;p&gt;完全に忘れてましたが本日は平日なんです! 満員電車にびっくりしないはずなのに…。&lt;/p&gt;
+  &lt;p&gt;I completely forgot, but today is a weekday! I shouldn’t have been surprised to be on such a packed train…&lt;/p&gt;
 
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;上野駅から新幹線に乗った&quot;&gt;上野駅から新幹線に乗った&lt;/h2&gt;
+&lt;h2 id=&quot;riding-the-shinkansen-from-ueno-station&quot;&gt;Riding the Shinkansen from Ueno Station&lt;/h2&gt;
 
-&lt;p&gt;友達とやっと会えました。券売機で買いたかったのですが、私はモバイルSuicaを使っているので、suicaのカードを持っていません。結局、新幹線のみどりの窓口で買いました。&lt;/p&gt;
+&lt;p&gt;I was finally able to meet with my friend. We wanted to buy tickets from the ticket sales machine but I used Mobile Suica (IC Card), I could not use it, for the machine only accepts the physical card. So, we ended up buying from the ticket office.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/上野駅-00.jpg&quot; alt=&quot;新幹線ホーム&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/上野駅-00.jpg&quot; alt=&quot;Shinkansen platform&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/上野駅-01.jpg&quot; alt=&quot;新幹線ホーム&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/上野駅-01.jpg&quot; alt=&quot;Shinkansen platform&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;友達の紹介&quot;&gt;友達の紹介&lt;/h3&gt;
+&lt;h3 id=&quot;introducing-my-friend&quot;&gt;Introducing my Friend&lt;/h3&gt;
 
-&lt;p&gt;名前：ブライアン・ラオ&lt;/p&gt;
+&lt;p&gt;Name: Bryan Lao&lt;/p&gt;
 
-&lt;p&gt;ニックネーム：ブライ&lt;/p&gt;
+&lt;p&gt;Nickname: Bry&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/友達の紹介-00.png&quot; alt=&quot;私とブライ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/友達の紹介-00.png&quot; alt=&quot;Bry and I&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ブライは母校のアテネオのプログラミング授業の教師でした。彼が奈良先端科学技術大学院大学で大学院と博士課程を卒業しました。今年東京に引っ越して私と同じ種類の仕事のソフトウェアエンジニアとして働いています。&lt;/p&gt;
+&lt;p&gt;Bry was my instructor for programming in my alma mater, Ateneo. He graduated as a PhD student in NAIST. He moved to Tokyo after that after that to work.&lt;/p&gt;
 
-&lt;h3 id=&quot;新幹線の雑談&quot;&gt;新幹線の雑談&lt;/h3&gt;
+&lt;h3 id=&quot;chat-in-the-shinkansen&quot;&gt;Chat in the Shinkansen&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;フィリピンと日本の視野&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Difference between Philippine and Japanese culture&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;二人はフィリピンに生まれ育って来日しました。フィリピンと日本の視野についてディスカッションしました。&lt;/p&gt;
+&lt;p&gt;We both grew up in the Philippines and came to Japan in our 20s. We compared and discussed how it is different to live in the Philippines and Japan and the different points of view which both countries can be looked at.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;カメラレンズの試しと説明&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trying out camera lenses&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/カメラレンズ-00.jpg&quot; alt=&quot;カメラ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/カメラレンズ-00.jpg&quot; alt=&quot;Camera&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ブライがカメラガチなのでレンズをたくさん持っていて1個を私の基本のミラーレスのカメラに合わせて貸してくれました。その1個のレンズでカメラの機能を説明してくれました。&lt;/p&gt;
+&lt;p&gt;Bry is a camera enthusiast so he owns several camera lenses. He lent me one to use with my mirrorless camera, explaining its capabilities and usage.&lt;/p&gt;
 
-&lt;h2 id=&quot;長野駅到着&quot;&gt;長野駅到着&lt;/h2&gt;
+&lt;h2 id=&quot;arriving-at-nagano-station&quot;&gt;Arriving at Nagano Station&lt;/h2&gt;
 
-&lt;p&gt;新幹線だとあっという間に長野に到着しました。東京より寒かったです。&lt;/p&gt;
+&lt;p&gt;Thanks to the Shinkansen, in just a few hours, we arrived at Nagano Station. It’s way colder here than in Tokyo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/長野駅-00.jpg&quot; alt=&quot;長野駅&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/長野駅-00.jpg&quot; alt=&quot;Nagano Station&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;杉玉について勉強になった&quot;&gt;杉玉について勉強になった&lt;/h3&gt;
+&lt;h3 id=&quot;i-learned-about-sugitama&quot;&gt;I learned about Sugitama&lt;/h3&gt;
 
-&lt;p&gt;朝食を食べる場所を探していてブライが私を呼び止めました。緑色の玉を指してそれが造り酒屋を現すと説明してくれました。&lt;/p&gt;
+&lt;p&gt;While looking for a place to eat breakfast, Bry called out to me. He pointed to the green sphere hanging from the ceiling, explaining that it is called a Sugitama (“cedar ball”, indicating the maturity of sake. Green balls are freshly made sake, which develops into brown balls that are matured sake.&lt;/p&gt;
 
-&lt;h3 id=&quot;朝食神戸屋キッチン&quot;&gt;朝食@神戸屋キッチン&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/杉玉-00.jpg&quot; alt=&quot;Sugitama&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ホットサンドがセットで注文しました。旅行でも野菜を摂るのは欠かせないのでサラダがあってよかったです。&lt;/p&gt;
+&lt;h3 id=&quot;breakfast-at-kobeya-kitchen&quot;&gt;Breakfast at Kobeya Kitchen&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/杉玉-00.jpg&quot; alt=&quot;杉玉&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I ordered a hot sandwich set. Traveling is no excuse not to eat veggies so I was glad that my order came with a side salad.&lt;/p&gt;
 
-&lt;h2 id=&quot;湯田中駅に向かう&quot;&gt;湯田中駅に向かう&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/神戸屋-00.jpg&quot; alt=&quot;Breakfast&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;バスか電車か選べましたが、私はバスが苦手なので、電車で行くことにしました。&lt;/p&gt;
+&lt;h2 id=&quot;heading-towards-yudanaka-station&quot;&gt;Heading towards Yudanaka Station&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-00.jpg&quot; alt=&quot;湯田中駅に向かう&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We can choose between riding a bus or a train but the bus makes me nauseous so we decided to take the train.&lt;/p&gt;
 
-&lt;p&gt;駅でスイカ使えないことにびっくりしました。また券売機を使いました(☉｡☉)!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-00.jpg&quot; alt=&quot;Heading towards Yudanaka Station&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-01.jpg&quot; alt=&quot;湯田中駅に向かう&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I was surprised that I could not use my Suica in this station. So, I bought from the ticket sales machine again (☉｡☉)!&lt;/p&gt;
 
-&lt;p&gt;電車の床が濡れていることにも不思議だと思いました。やっぱり雪が多いと乗客の靴が濡れているんですね。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-01.jpg&quot; alt=&quot;Ticket&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;湯田中行の電車と乗り換えタイミングで以下の写真を撮りました。&lt;/p&gt;
+&lt;p&gt;I thought it was strange that the train floor was wet. And then I realized that it was probably due to all the snow from the passengers’ shoes.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-02.png&quot; alt=&quot;湯田中駅に向かう&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I took this picture on my train transfer.&lt;/p&gt;
 
-&lt;p&gt;景色は土地と山が雪で覆われていました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-02.png&quot; alt=&quot;Train&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-03.png&quot; alt=&quot;湯田中駅に向かう&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The views we had in our train ride were fields and mountains blanketed by thick snow.&lt;/p&gt;
 
-&lt;h2 id=&quot;ホステル到着&quot;&gt;ホステル到着&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-03.png&quot; alt=&quot;View&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;お部屋はシンプルな和室です。&lt;/p&gt;
+&lt;h2 id=&quot;arriving-at-our-hostel&quot;&gt;Arriving at Our Hostel&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ホテル-00.jpg&quot; alt=&quot;ホステル&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Our room was a simple traditional Japanese-style room.&lt;/p&gt;
 
-&lt;p&gt;外はこんな感じで和風をもっと感じました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ホテル-00.jpg&quot; alt=&quot;Room&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ホテル-01.jpg&quot; alt=&quot;ホステル&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The outside view was also Japanese style.&lt;/p&gt;
 
-&lt;h2 id=&quot;ランチ&quot;&gt;ランチ&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ホテル-01.jpg&quot; alt=&quot;Outside view&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ホステルの後ろにある中華そば屋さんでチャシューめんを食べました。たくさん歩くつもりなので高炭水化物は必要だと思いました。&lt;/p&gt;
+&lt;h2 id=&quot;lunch&quot;&gt;Lunch&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ランチ.jpg&quot; alt=&quot;ランチ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We ate Pork Char siu Ramen at a small Chinese diner behind our hostel. We planned to walk lots so eating something full of carbs was justly appropriate.&lt;/p&gt;
 
-&lt;p&gt;満腹でした!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ランチ.jpg&quot; alt=&quot;Lunch&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;地獄谷野猿公苑&quot;&gt;地獄谷野猿公苑&lt;/h2&gt;
+&lt;p&gt;I got full from this!&lt;/p&gt;
 
-&lt;p&gt;ランチ後は温泉に入っている猿さんたちの地獄谷野猿公苑という場所に向かいました。山道を歩きました。どこでも見たのは雪が積もっている真っ白な景色でした。すごくきれいでした。&lt;/p&gt;
+&lt;h2 id=&quot;jigokudani-monkey-park&quot;&gt;Jigokudani Monkey Park&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-00.png&quot; alt=&quot;地獄谷野猿公苑の歩き道&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;After lunch, we headed towards Jigokudani Monkey Park, a park where you can see monkeys bathe in onsen (hot spring). We walked on a snow-covered mountain road. There was snow everywhere I looked and everything was so white and pretty.&lt;/p&gt;
 
-&lt;p&gt;厚い雪に積もった道も歩くことができました。新雪なので粉のように柔らかいです。あとは、以外と観光スポットなのに誰もいませんでした。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-00.png&quot; alt=&quot;Walking&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-01.jpg&quot; alt=&quot;地獄谷野猿公苑の歩き道&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The road was thickly covered with fresh snow so they were so soft to walk at. It was surprising that there was no one else here, despite being a tourist spot.&lt;/p&gt;
 
-&lt;p&gt;長く歩いて、やっと地獄谷野猿公苑に到着しました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-01.jpg&quot; alt=&quot;Walking&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;猿たちが温泉に入らないで周りに座ったり歩いたりしています。たぶん猿はいつも温泉にいるから飽きているかもしれません。&lt;/p&gt;
+&lt;p&gt;After walking for so long, we finally arrived at the park.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-02.png&quot; alt=&quot;地獄谷野猿公苑&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The monkeys weren’t inside the onsen, but rather just sitting or walking around. Maybe because they can access the onsen anytime, they’re probably tired of it.&lt;/p&gt;
 
-&lt;p&gt;数分後についに猿が一匹入りました。観光客はみんな喜んでいました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-02.png&quot; alt=&quot;Monkey park&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-03.jpg&quot; alt=&quot;地獄谷野猿公苑&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;After a few minutes, finally one of them entered the onsen, delighting the visitors.&lt;/p&gt;
 
-&lt;p&gt;その上に、下記の写真のとおりに二匹の猿がやりました。ブライによると、この写真は「完璧な写真」だそうです（笑）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-03.jpg&quot; alt=&quot;Monkey&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-04.jpg&quot; alt=&quot;地獄谷野猿公苑&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Apart from that, these two monkeys did something funny. Bry said that I was able to take the “perfect picture” lol&lt;/p&gt;
 
-&lt;p&gt;地獄谷野猿公苑からホステルまでまた歩こうとしました。ラーメンがもう消化されたのでお腹すいていました。運良くカフェを見つけました。カフェの照明が冬の景色と美しい対照をなすと思って写真を取ってみました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-04.jpg&quot; alt=&quot;Monkey&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ココアのお店.jpg&quot; alt=&quot;ココアのお店&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We decided to walk back from the monkey park back to our hostel. The ramen I ate was already fully digested so I was hungry again. Luckily, there was a cafe halfway on the way home. The cafe’s lighting charmingly contrasts with the winter scenery so I decided to take this picture.&lt;/p&gt;
 
-&lt;p&gt;ホットチョコレートを注文しました。冬といえばホットココアですね? ( ꈍᴗꈍ) 飲んだから寒い雪の山道を乗り切れるようになります!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ココアのお店.jpg&quot; alt=&quot;Cafe&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ココア.jpg&quot; alt=&quot;ココア&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I ordered hot chocolate, which is perfect for winter, am I right? ( ꈍᴗꈍ)
+Because of the warmth that it gave me, I was able to conquer the cold snowy mountain on the way back!&lt;/p&gt;
 
-&lt;h2 id=&quot;湯田中温泉&quot;&gt;湯田中温泉&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ココア.jpg&quot; alt=&quot;Cocoa&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;泊まっているホステルがよろづやという温泉と提携しているのでお得な割引を提供してくれました。その切符を購入してよろづやに向かいました。ホステルから歩いて5分で超便利ですね。&lt;/p&gt;
+&lt;h2 id=&quot;yudanaka-onsen&quot;&gt;Yudanaka Onsen&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-00.jpg&quot; alt=&quot;温泉&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The hostel we stayed at was affiliated with an onsen called Yorozuya, so we were able to purchase onsen tickets at a discounted price. We headed to the said onsen, which was just a 5-minute walk from our hostel.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-01.jpg&quot; alt=&quot;温泉&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-00.jpg&quot; alt=&quot;Yorozuya&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;よろづやの上品で伝統的なインテリアが気に入りました。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-01.jpg&quot; alt=&quot;Yorozuya&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-02.jpg&quot; alt=&quot;よろづや&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Two words to describe Yorozuya’s interior were elegant and traditional. I love it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-03.jpg&quot; alt=&quot;よろづや&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-02.jpg&quot; alt=&quot;Yorozuya&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;露天風呂に入って積もった雪を見ました。残念ながら雪が降らなかったけど、雪景色の中で入るお風呂は最高でした。ほぼ一日中使っていた足が温泉の熱さのおかげでリラックスできて回復されました。疲れた後の温泉は最高ですね〜&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-03.jpg&quot; alt=&quot;Yorozuya&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ブライはこのくらい温泉で幸せでした。&lt;/p&gt;
+&lt;p&gt;I entered the rotenburo (“open-air hot spring bath”) and admired the snow surrounding it. It’s the second-best onsen experience I had (the first one was when it was actually snowing). My exhausted feet which I used the whole day was revitalized, thanks to the heat of the onsen. Entering the onsen is the best feeling for the tired.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip//湯田中温泉-04.jpg&quot; alt=&quot;温泉で幸せ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Bry was this happy.&lt;/p&gt;
 
-&lt;h2 id=&quot;居酒屋で夕食&quot;&gt;居酒屋で夕食&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip//湯田中温泉-04.jpg&quot; alt=&quot;Bry in onsen&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;温泉から出たのはもう遅いのでほぼすべてのレストランがもう閉店していました。結局まだ開いている居酒屋に食べに行きました。&lt;/p&gt;
+&lt;h2 id=&quot;dinner-at-the-izakaya&quot;&gt;Dinner at the Izakaya&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/居酒屋-00.jpg&quot; alt=&quot;居酒屋&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It was already late we left the onsen so almost all of the restaurants were already closed. We ended up eating at an Izakaya (Japanese bar).&lt;/p&gt;
 
-&lt;p&gt;ブライアンはアルコールアレルギーで、私もアルコールの頻度を減らしたいので二人は居酒屋でソフトドリンク飲んじゃいました。オレンジジューズとサイダーで乾杯したのは面白いと思います。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/居酒屋-00.jpg&quot; alt=&quot;Izakaya&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/居酒屋-01.jpg&quot; alt=&quot;ソフトドリンク&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Bry has an alcohol allergy and I wanted to reduce my alcohol intake so both of us ordered soft drinks only at the Izakaya (lol). I thought it was funny when said cheers over our glasses of orange juice and soda.&lt;/p&gt;
 
-&lt;p&gt;焼き鳥食べました〜しょっぱすぎてオレンジジューズを注文したのはありがたいです(笑)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/居酒屋-01.jpg&quot; alt=&quot;Soft drinks&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/居酒屋-02.jpg&quot; alt=&quot;焼き鳥&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We ate yakitori. It was so salty, so thank god I ordered orange juice to save my tongue lol&lt;/p&gt;
 
-&lt;p&gt;焼きおにぎりを食べたことないので食べました。なぜ茶色かわからなくて玄米だと思っていて超ヘルシーな居酒屋メニューだと思いました。ブライがそれは玄米じゃなくて醤油の効果だよって説明してくれました。間違えましたね(；^ω^）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/居酒屋-02.jpg&quot; alt=&quot;Yakitori&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I haven’t tried Yakionigiri (grilled rice ball) so I ordered it as well. I thought its brown color was because of using brown rice, making me amazed how such a healthy menu can be ordered in a bar. However, Bry said that it wasn’t brown rice, but rather due to soy sauce. Oops. (；^ω^）&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/居酒屋-03.jpg&quot; alt=&quot;焼きおにぎり&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;二日目&quot;&gt;二日目&lt;/h1&gt;
+&lt;h1 id=&quot;the-second-day&quot;&gt;The Second Day&lt;/h1&gt;
 
-&lt;h2 id=&quot;奥志賀高原スキー場&quot;&gt;奥志賀高原スキー場&lt;/h2&gt;
+&lt;h2 id=&quot;okushiga-kogen-ski-resort&quot;&gt;Okushiga Kogen Ski Resort&lt;/h2&gt;
 
-&lt;p&gt;湯田中駅から奥志賀高原までこのお得な赤いチケットでバスを乗りました。&lt;/p&gt;
+&lt;p&gt;We used this discounted red ticket to go to Okushiga Kogen Ski Resort by bus.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-00.jpg&quot; alt=&quot;奥志賀高原へのバス&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-00.jpg&quot; alt=&quot;Bus&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;雪の山が綺麗ですね〜これは東京から全然見えない景色なんです。&lt;/p&gt;
+&lt;p&gt;The snow-covered mountain is so pretty, right? This is the kind of view that I couldn’t see in Tokyo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-01.jpg&quot; alt=&quot;雪の景色&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-01.jpg&quot; alt=&quot;Snow view&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;着いたらリフトのチケットを購入してスキーレンタルしました。&lt;/p&gt;
+&lt;p&gt;We bought ski lift tickets and rented some skis.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-02.jpg&quot; alt=&quot;スキーレンタル&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-02.jpg&quot; alt=&quot;Rental&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-03.jpg&quot; alt=&quot;スキーレンタル&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-03.jpg&quot; alt=&quot;Rental&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-04.jpg&quot; alt=&quot;スキー地図&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-04.jpg&quot; alt=&quot;Map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;リフト乗りました。天気がよくてありがたいですヽ(･ˇ∀ˇ･ゞ)&lt;/p&gt;
+&lt;p&gt;We rode the lift. Thankfully the weather was good ヽ(･ˇ∀ˇ･ゞ)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-05.jpg&quot; alt=&quot;リフト&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-05.jpg&quot; alt=&quot;Lift&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;スキースクール、クラスとか受けてないのでスキーのやり方があまりわかりません。他のスキーヤーを見習いながらやってみました。&lt;/p&gt;
+&lt;p&gt;We didn’t take ski school or class so we were naturally not good at it. I watched the other skiers and tried to copy them.&lt;/p&gt;
 
-&lt;p&gt;すごく怯えていましたがやってみたかったです。リフトを降りたらスキーでしか坂を降りられません。その恐怖を少し忘れるようにイヤホンを使いました。陽気な音楽を聴いたらとても恐怖心は和らぎました。音楽に励まされていてわくわくしながら坂を滑り降りました。&lt;/p&gt;
+&lt;p&gt;I was very scared but I really wanted to try skiing. Once I got off the lift, there was no other way to go down but to ski. I tried to use my earphones to mask my fear. And it worked, the lively music alleviated my fear a bit, encouraging me to go down the slope. In fact, it excited me.&lt;/p&gt;
 
-&lt;p&gt;一方で、よく自信がなくなりました。転ぶのが怖くてパニックに陥っていました。パニックだから体が硬くなっちゃって結局転んでしまいました。転びすぎて何回転んだかがもう数えられないほど多いです。&lt;/p&gt;
+&lt;p&gt;However, I often lost my confidence. I was afraid to fall so I panicked a lot. Because of that panic, my body stiffened, making me end up falling. I can’t even count how many times I fell, I just knew it was too much.&lt;/p&gt;
 
-&lt;p&gt;初級の坂なのにこれほどへたくそなのは恥ずかしいですね(^～^;)ゞでも大丈夫ですよー。だれでも最初は初心者だからこの経験は当然です。だって、スキーをした理由はエンジョイするためですから。&lt;/p&gt;
+&lt;p&gt;It was quite embarrassing because I’m so bad at it despite being on a beginner slope (^～^;)ゞ. But it’s okay, I assured myself. It’s only reasonable because everyone is a beginner at first. Anyway, my purpose for skiing was to have fun.&lt;/p&gt;
 
-&lt;p&gt;とにかくすごく楽しかったです。転んでも雪がすごく柔らかくて全然大丈夫でした。&lt;/p&gt;
+&lt;p&gt;To be fair, I had a lot of fun. Even falling several times was okay because the snow was very soft.&lt;/p&gt;
 
-&lt;p&gt;でも、知らないこととか、あまりなれていないことをやれば、頭が疲れますね? 言いたいのはスキーで脳の細胞が死んだように精神的に疲れました(~_~メ)&lt;/p&gt;
+&lt;p&gt;But doing something you’re unfamiliar with is tiring, right? What I want to say is skiing fried my brain too (~_~メ)&lt;/p&gt;
 
-&lt;h2 id=&quot;渋温泉へ&quot;&gt;渋温泉へ&lt;/h2&gt;
+&lt;h2 id=&quot;heading-towards-shibu-onsen&quot;&gt;Heading towards Shibu Onsen&lt;/h2&gt;
 
-&lt;p&gt;さきのバスチケットは往復なのでそれを使ってバスで山を降りました。&lt;/p&gt;
+&lt;p&gt;Using the same ticket, we went down the hill via bus.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/渋温泉へ-00.jpg&quot; alt=&quot;渋温泉へ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/渋温泉へ-00.jpg&quot; alt=&quot;Same ticket&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;夕食&quot;&gt;夕食&lt;/h2&gt;
+&lt;h2 id=&quot;dinner&quot;&gt;Dinner&lt;/h2&gt;
 
-&lt;p&gt;バス停から少し歩いてハッピーレストランに着きました。&lt;/p&gt;
+&lt;p&gt;Walking a bit from the bus stop, we arrived at a restaurant called Happy Restaurant.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ハッピー-00.jpg&quot; alt=&quot;ハッピー&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ハッピー-00.jpg&quot; alt=&quot;Happy&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;うわ～やっと本物の食べ物なんです（朝食はヨーグルト、ランチはカロリーメイトしか食べなかったもの）！とんかつ定食が結構美味しかったです。&lt;/p&gt;
+&lt;p&gt;Finally, some real food here! (Btw, my breakfast was just yogurt and my lunch was just Calorie Mate, a Japanese brand energy bar).
+The tonkatsu (pork cutlet) set that I ordered was quite good.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ハッピー-01.jpg&quot; alt=&quot;ハッピーのかつ&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/ハッピー-01.jpg&quot; alt=&quot;Tonkatsu&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;金具屋&quot;&gt;金具屋&lt;/h2&gt;
+&lt;h2 id=&quot;kanaguya&quot;&gt;Kanaguya&lt;/h2&gt;
 
-&lt;p&gt;帰り道に渋温泉の金具屋に見に行きました。金具屋は歴史の宿です。スタジオジブリの千と千尋の神隠しのモデルだそうです。&lt;/p&gt;
+&lt;p&gt;We visited Shibu Onsen’s Kanaguya on the way home. It is a historical Japanese inn that inspired Studio Ghibli’s Spirited Away, they say.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/金具屋-00.jpg&quot; alt=&quot;金具屋&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/金具屋-00.jpg&quot; alt=&quot;Kanaguya&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;渋温泉から歩いて帰りました。雪がもう半解凍されていたのですごく滑りやすかったです。気を付けて歩きました。&lt;/p&gt;
+&lt;p&gt;We started to walk back home from Shibu Onsen. Some snow was already half melted so it was very slippery. We threaded carefully.&lt;/p&gt;
 
-&lt;p&gt;途中で、この雪で覆われているポストを見ました。私は雪とポストが両方好きで一枚の写真でこの素敵なシーンが撮れるのがいいですね〜さらに真赤なポストは真っ白な雪との対比が綺麗ですね〜&lt;/p&gt;
+&lt;p&gt;While walking, I saw this snow-covered post. Snow and posts are two things I like so I was glad to take this picture. The vivid red post has a beautiful contrast with the muted white snow, right?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/金具屋-01.jpg&quot; alt=&quot;ポスト&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/金具屋-01.jpg&quot; alt=&quot;Post&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;三日目&quot;&gt;三日目&lt;/h1&gt;
+&lt;h1 id=&quot;the-last-day&quot;&gt;The Last Day&lt;/h1&gt;
 
-&lt;p&gt;ホステルをチェックアウトして、湯田中駅に向かいました。電車で長野駅に向かいました。時間を潰したいため本を読みました。&lt;/p&gt;
+&lt;p&gt;We checked out and headed to Yudanaka Station. From there, we took the train to go to Nagano Station. I wanted to kill time so I read a book.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/三日目-00.jpg&quot; alt=&quot;本を読んでいる&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/三日目-00.jpg&quot; alt=&quot;Reading a book&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;着いたらちょうどランチタイムでした。ブライが信州そば食べたかったので駅の立ち食いそば屋さんで月見そばを食べました。立ち食いははじめてでした (人 •͈ᴗ•͈)&lt;/p&gt;
+&lt;p&gt;It was lunchtime when we arrived. Bry wanted to eat Shinshu Soba so we ate at a standing soba restaurant at the station. I ordered soba with egg. Note that this was my first time eating at a standing restaurant (人 •͈ᴗ•͈)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/三日目-01.jpg&quot; alt=&quot;月見そば&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/三日目-01.jpg&quot; alt=&quot;Soba&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;予約したバスの時間になったらバス停に向かいました。なぜ帰るのがバスかの理由は節約したいからですが、休みはリラックスする時間のはずだから、それほど安っぽくしたくないと二人と決めました。往路が新幹線で復路がバスは満足できる妥協だと思いました。&lt;/p&gt;
+&lt;p&gt;It was time for us to ride the bus that we reserved so we headed to the bus stop. We’re taking the bus on the way home because we wanted to save. But vacations are supposed to be enjoyed, so we didn’t want to cheap out too much. The good compromise would be taking the shinkansen on the way to, and the bus on the way back, we thought.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/三日目-02.png&quot; alt=&quot;バス&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/三日目-02.png&quot; alt=&quot;Bus&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;バスを乗って本を読み続けました。&lt;/p&gt;
+&lt;p&gt;I read again inside the bus.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/2021-12-30-nagano-winter-trip/三日目-03.png&quot; alt=&quot;本を読んでいる&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;その後は、最後にこのレポートを書き終わらせました。全体的に、それはとても素敵な休暇でした。 今回の旅行は、私が雪の上を歩いた中で最も長い時間だと思います。 フィリピン人として熱帯の国で育ち、雪が降るのを見たことがなかったので、長野のような雪の降る場所に行くととても幸せです。&lt;/p&gt;
-
-&lt;p&gt;校正者：田中大樹&lt;/p&gt;
+&lt;p&gt;After that, I finished writing this report. Overall, these past three days have been a lovely way to spend my vacation. This is the longest time I’ve walked on snow. As a Filipino, I grew up in a tropical country where there isn’t snow so going to a snowy place such as Nagano made me glad.&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Dec 2021 00:00:00 +0900</pubDate>
-        <link>/nagano-winter-trip/</link>
-        <guid isPermaLink="true">/nagano-winter-trip/</guid>
+        <link>http://localhost:4000/nagano-winter-trip/</link>
+        <guid isPermaLink="true">http://localhost:4000/nagano-winter-trip/</guid>
         
         
         <category>Travel</category>
