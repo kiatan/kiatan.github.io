@@ -1,0 +1,17 @@
+global:
+  japanese: 日本語
+  english: English
+pages:
+  home: Home
+  about: About
+  contact: Contact
+  categories: Categories
+navigation: Navigation
+welcome: Welcome to Seikiatsu!
+description: Kia's diary about her life in Japan
+posts:
+  written_by: Written by
+  explore: Explore more like this
+categories:
+  travel: Travel
+  culture: Culture

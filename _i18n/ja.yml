@@ -1,0 +1,17 @@
+global:
+  japanese: 日本語
+  english: English
+pages:
+  home: ホーム
+  about: Seikiatsuについて
+  contact: 連絡先
+  categories: カテゴリー
+navigation: ナビゲーション
+welcome: Seikiatsuへようこそ！
+description: Kiaの日本での生活についての日記
+posts:
+  written_by: 投稿者
+  explore: 関連投稿
+categories:
+  travel: 旅行
+  culture: 文化
