@@ -77,11 +77,13 @@ comments: false
 
 朝食を食べる場所を探していてブライが私を呼び止めました。緑色の玉を指してそれが造り酒屋を現すと説明してくれました。
 
+![杉玉](/assets/images/2021-12-30-nagano-winter-trip/杉玉-00.jpg)
+
 ### 朝食@神戸屋キッチン
 
 ホットサンドがセットで注文しました。旅行でも野菜を摂るのは欠かせないのでサラダがあってよかったです。
 
-![杉玉](/assets/images/2021-12-30-nagano-winter-trip/杉玉-00.jpg)
+![朝食](/assets/images/2021-12-30-nagano-winter-trip/神戸屋-00.jpg)
 
 ## 湯田中駅に向かう
 

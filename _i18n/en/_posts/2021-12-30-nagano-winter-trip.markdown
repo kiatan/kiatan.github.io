@@ -13,271 +13,271 @@ I wanted to spend my holidays in a snowy place so I went to Nagano.
 
 ### The Day Before
 
+I finished packing my pack the day before. My backpack was pretty big so I also slipped my whole camera bag inside it. I haven't worn the white boots in the picture for two years already so I was excited as I was going to be able to wear them again on this trip.
 
+![Bag](/assets/images/2021-12-30-nagano-winter-trip/前日-00.jpg)
 
-前日準備できました！バッグが結構大きいのでカメラバッグも中に入れました。写真のとおり荷物の横にあるブーツは2年ぶりに使うからすごく楽しみにしています。
+In other words, I haven't been to a snowy place for two years already. I checked the weather forecast to mentally prepare for that. It seems that it will be freezing so I was a bit nervous.
 
-![バッグ](/assets/images/2021-12-30-nagano-winter-trip/前日-00.jpg)
+![Weather forecast](/assets/images/2021-12-30-nagano-winter-trip/前日-01.png)
 
-ということで、2年ぶりに雪が多い場所に行くから覚悟するために明日の天気予報を調べてみました。すごく寒いから少し緊張しています。
+I will leave at 6 am the next day so I set my alarm to 5 am.
 
-![天気予報](/assets/images/2021-12-30-nagano-winter-trip/前日-01.png)
+![Alarm](/assets/images/2021-12-30-nagano-winter-trip/前日-02.png)
 
-明日の出発は6時なのでアラームを5時に設定しておきました。
+# The First Day
 
-![アラーム](/assets/images/2021-12-30-nagano-winter-trip/前日-02.png)
+Let's go! It was still dark but I wanted to make full use of the day so I decided to leave early.
 
-# 一日目
+![Train](/assets/images/2021-12-30-nagano-winter-trip/一日目-00.jpg)
 
-出発です! まだ暗いですが一日を満喫するため早く到着しようと思っていました。
+First of all, I was going to meet with my company for this trip at Ueno Station's Shinkansen (bullet train) platform.
 
-![電車](/assets/images/2021-12-30-nagano-winter-trip/一日目-00.jpg)
-
-まずは参加者と上野駅の新幹線ホームで集合します。
-
-> **電車で思ったこと**
+> **Thoughts while commuting**
 > 
-> 完全に忘れてましたが本日は平日なんです! 満員電車にびっくりしないはずなのに…。
+> I completely forgot, but today is a weekday! I shouldn't have been surprised to be on such a packed train...
+> 
 > 
 
-## 上野駅から新幹線に乗った
+## Riding the Shinkansen from Ueno Station
 
-友達とやっと会えました。券売機で買いたかったのですが、私はモバイルSuicaを使っているので、suicaのカードを持っていません。結局、新幹線のみどりの窓口で買いました。
+I was finally able to meet with my friend. We wanted to buy tickets from the ticket sales machine but I used Mobile Suica (IC Card), I could not use it, for the machine only accepts the physical card. So, we ended up buying from the ticket office. 
 
-![新幹線ホーム](/assets/images/2021-12-30-nagano-winter-trip/上野駅-00.jpg)
+![Shinkansen platform](/assets/images/2021-12-30-nagano-winter-trip/上野駅-00.jpg)
 
-![新幹線ホーム](/assets/images/2021-12-30-nagano-winter-trip/上野駅-01.jpg)
+![Shinkansen platform](/assets/images/2021-12-30-nagano-winter-trip/上野駅-01.jpg)
 
-### 友達の紹介
+### Introducing my Friend
 
-名前：ブライアン・ラオ
+Name: Bryan Lao
 
-ニックネーム：ブライ
+Nickname: Bry
 
-![私とブライ](/assets/images/2021-12-30-nagano-winter-trip/友達の紹介-00.png)
+![Bry and I](/assets/images/2021-12-30-nagano-winter-trip/友達の紹介-00.png)
 
-ブライは母校のアテネオのプログラミング授業の教師でした。彼が奈良先端科学技術大学院大学で大学院と博士課程を卒業しました。今年東京に引っ越して私と同じ種類の仕事のソフトウェアエンジニアとして働いています。
+Bry was my instructor for programming in my alma mater, Ateneo. He graduated as a PhD student in NAIST. He moved to Tokyo after that after that to work.
 
-### 新幹線の雑談
+### Chat in the Shinkansen
 
-**フィリピンと日本の視野**
+**Difference between Philippine and Japanese culture**
 
-二人はフィリピンに生まれ育って来日しました。フィリピンと日本の視野についてディスカッションしました。
+We both grew up in the Philippines and came to Japan in our 20s. We compared and discussed how it is different to live in the Philippines and Japan and the different points of view which both countries can be looked at.
 
-**カメラレンズの試しと説明**
+**Trying out camera lenses**
 
-![カメラ](/assets/images/2021-12-30-nagano-winter-trip/カメラレンズ-00.jpg)
+![Camera](/assets/images/2021-12-30-nagano-winter-trip/カメラレンズ-00.jpg)
 
-ブライがカメラガチなのでレンズをたくさん持っていて1個を私の基本のミラーレスのカメラに合わせて貸してくれました。その1個のレンズでカメラの機能を説明してくれました。
+Bry is a camera enthusiast so he owns several camera lenses. He lent me one to use with my mirrorless camera, explaining its capabilities and usage.
 
-## 長野駅到着
+## Arriving at Nagano Station
 
-新幹線だとあっという間に長野に到着しました。東京より寒かったです。
+Thanks to the Shinkansen, in just a few hours, we arrived at Nagano Station. It's way colder here than in Tokyo.
 
-![長野駅](/assets/images/2021-12-30-nagano-winter-trip/長野駅-00.jpg)
+![Nagano Station](/assets/images/2021-12-30-nagano-winter-trip/長野駅-00.jpg)
 
-### 杉玉について勉強になった
+### I learned about Sugitama
 
-朝食を食べる場所を探していてブライが私を呼び止めました。緑色の玉を指してそれが造り酒屋を現すと説明してくれました。
+While looking for a place to eat breakfast, Bry called out to me. He pointed to the green sphere hanging from the ceiling, explaining that it is called a Sugitama ("cedar ball", indicating the maturity of sake. Green balls are freshly made sake, which develops into brown balls that are matured sake.
 
-### 朝食@神戸屋キッチン
+![Sugitama](/assets/images/2021-12-30-nagano-winter-trip/杉玉-00.jpg)
 
-ホットサンドがセットで注文しました。旅行でも野菜を摂るのは欠かせないのでサラダがあってよかったです。
+### Breakfast at Kobeya Kitchen
 
-![杉玉](/assets/images/2021-12-30-nagano-winter-trip/杉玉-00.jpg)
+I ordered a hot sandwich set. Traveling is no excuse not to eat veggies so I was glad that my order came with a side salad.
 
-## 湯田中駅に向かう
+![Breakfast](/assets/images/2021-12-30-nagano-winter-trip/神戸屋-00.jpg)
 
-バスか電車か選べましたが、私はバスが苦手なので、電車で行くことにしました。
 
-![湯田中駅に向かう](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-00.jpg)
+## Heading towards Yudanaka Station
 
-駅でスイカ使えないことにびっくりしました。また券売機を使いました(☉｡☉)!
+We can choose between riding a bus or a train but the bus makes me nauseous so we decided to take the train.
 
-![湯田中駅に向かう](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-01.jpg)
+![Heading towards Yudanaka Station](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-00.jpg)
 
+I was surprised that I could not use my Suica in this station. So, I bought from the ticket sales machine again (☉｡☉)!
 
-電車の床が濡れていることにも不思議だと思いました。やっぱり雪が多いと乗客の靴が濡れているんですね。
+![Ticket](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-01.jpg)
 
-湯田中行の電車と乗り換えタイミングで以下の写真を撮りました。
+I thought it was strange that the train floor was wet. And then I realized that it was probably due to all the snow from the passengers' shoes.
 
-![湯田中駅に向かう](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-02.png)
+I took this picture on my train transfer.
 
+![Train](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-02.png)
 
-景色は土地と山が雪で覆われていました。
+The views we had in our train ride were fields and mountains blanketed by thick snow. 
 
-![湯田中駅に向かう](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-03.png)
+![View](/assets/images/2021-12-30-nagano-winter-trip/湯田中駅に向かう-03.png)
 
-## ホステル到着
+## Arriving at Our Hostel
 
-お部屋はシンプルな和室です。
+Our room was a simple traditional Japanese-style room.
 
-![ホステル](/assets/images/2021-12-30-nagano-winter-trip/ホテル-00.jpg)
+![Room](/assets/images/2021-12-30-nagano-winter-trip/ホテル-00.jpg)
 
-外はこんな感じで和風をもっと感じました。
+The outside view was also Japanese style.
 
-![ホステル](/assets/images/2021-12-30-nagano-winter-trip/ホテル-01.jpg)
+![Outside view](/assets/images/2021-12-30-nagano-winter-trip/ホテル-01.jpg)
 
-## ランチ
+## Lunch
 
-ホステルの後ろにある中華そば屋さんでチャシューめんを食べました。たくさん歩くつもりなので高炭水化物は必要だと思いました。
+We ate Pork Char siu Ramen at a small Chinese diner behind our hostel. We planned to walk lots so eating something full of carbs was justly appropriate.
 
-![ランチ](/assets/images/2021-12-30-nagano-winter-trip/ランチ.jpg)
+![Lunch](/assets/images/2021-12-30-nagano-winter-trip/ランチ.jpg)
 
-満腹でした!
+I got full from this!
 
-## 地獄谷野猿公苑
+## Jigokudani Monkey Park
 
-ランチ後は温泉に入っている猿さんたちの地獄谷野猿公苑という場所に向かいました。山道を歩きました。どこでも見たのは雪が積もっている真っ白な景色でした。すごくきれいでした。
+After lunch, we headed towards Jigokudani Monkey Park, a park where you can see monkeys bathe in onsen (hot spring). We walked on a snow-covered mountain road. There was snow everywhere I looked and everything was so white and pretty.
 
-![地獄谷野猿公苑の歩き道](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-00.png)
+![Walking](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-00.png)
 
-厚い雪に積もった道も歩くことができました。新雪なので粉のように柔らかいです。あとは、以外と観光スポットなのに誰もいませんでした。
+The road was thickly covered with fresh snow so they were so soft to walk at. It was surprising that there was no one else here, despite being a tourist spot.
 
-![地獄谷野猿公苑の歩き道](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-01.jpg)
+![Walking](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-01.jpg)
 
-長く歩いて、やっと地獄谷野猿公苑に到着しました。
+After walking for so long, we finally arrived at the park.
 
-猿たちが温泉に入らないで周りに座ったり歩いたりしています。たぶん猿はいつも温泉にいるから飽きているかもしれません。
+The monkeys weren't inside the onsen, but rather just sitting or walking around. Maybe because they can access the onsen anytime, they're probably tired of it.
 
-![地獄谷野猿公苑](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-02.png)
+![Monkey park](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-02.png)
 
-数分後についに猿が一匹入りました。観光客はみんな喜んでいました。
+After a few minutes, finally one of them entered the onsen, delighting the visitors.
 
-![地獄谷野猿公苑](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-03.jpg)
+![Monkey](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-03.jpg)
 
-その上に、下記の写真のとおりに二匹の猿がやりました。ブライによると、この写真は「完璧な写真」だそうです（笑）
+Apart from that, these two monkeys did something funny. Bry said that I was able to take the "perfect picture" lol
 
-![地獄谷野猿公苑](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-04.jpg)
+![Monkey](/assets/images/2021-12-30-nagano-winter-trip/地獄谷野猿公苑-04.jpg)
 
-地獄谷野猿公苑からホステルまでまた歩こうとしました。ラーメンがもう消化されたのでお腹すいていました。運良くカフェを見つけました。カフェの照明が冬の景色と美しい対照をなすと思って写真を取ってみました。
+We decided to walk back from the monkey park back to our hostel. The ramen I ate was already fully digested so I was hungry again. Luckily, there was a cafe halfway on the way home. The cafe's lighting charmingly contrasts with the winter scenery so I decided to take this picture.
 
-![ココアのお店](/assets/images/2021-12-30-nagano-winter-trip/ココアのお店.jpg)
+![Cafe](/assets/images/2021-12-30-nagano-winter-trip/ココアのお店.jpg)
 
-ホットチョコレートを注文しました。冬といえばホットココアですね? ( ꈍᴗꈍ) 飲んだから寒い雪の山道を乗り切れるようになります!
+I ordered hot chocolate, which is perfect for winter, am I right? ( ꈍᴗꈍ)
+Because of the warmth that it gave me, I was able to conquer the cold snowy mountain on the way back!
 
-![ココア](/assets/images/2021-12-30-nagano-winter-trip/ココア.jpg)
+![Cocoa](/assets/images/2021-12-30-nagano-winter-trip/ココア.jpg)
 
-## 湯田中温泉
+## Yudanaka Onsen
 
-泊まっているホステルがよろづやという温泉と提携しているのでお得な割引を提供してくれました。その切符を購入してよろづやに向かいました。ホステルから歩いて5分で超便利ですね。
+The hostel we stayed at was affiliated with an onsen called Yorozuya, so we were able to purchase onsen tickets at a discounted price. We headed to the said onsen, which was just a 5-minute walk from our hostel.
 
-![温泉](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-00.jpg)
+![Yorozuya](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-00.jpg)
 
-![温泉](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-01.jpg)
+![Yorozuya](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-01.jpg)
 
-よろづやの上品で伝統的なインテリアが気に入りました。
+Two words to describe Yorozuya's interior were elegant and traditional. I love it.
 
-![よろづや](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-02.jpg)
+![Yorozuya](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-02.jpg)
 
-![よろづや](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-03.jpg)
+![Yorozuya](/assets/images/2021-12-30-nagano-winter-trip/湯田中温泉-03.jpg)
 
-露天風呂に入って積もった雪を見ました。残念ながら雪が降らなかったけど、雪景色の中で入るお風呂は最高でした。ほぼ一日中使っていた足が温泉の熱さのおかげでリラックスできて回復されました。疲れた後の温泉は最高ですね〜
+I entered the rotenburo ("open-air hot spring bath") and admired the snow surrounding it. It's the second-best onsen experience I had (the first one was when it was actually snowing). My exhausted feet which I used the whole day was revitalized, thanks to the heat of the onsen. Entering the onsen is the best feeling for the tired. 
 
-ブライはこのくらい温泉で幸せでした。
+Bry was this happy.
 
-![温泉で幸せ](/assets/images/2021-12-30-nagano-winter-trip//湯田中温泉-04.jpg)
+![Bry in onsen](/assets/images/2021-12-30-nagano-winter-trip//湯田中温泉-04.jpg)
 
-## 居酒屋で夕食
+## Dinner at the Izakaya
 
-温泉から出たのはもう遅いのでほぼすべてのレストランがもう閉店していました。結局まだ開いている居酒屋に食べに行きました。
+It was already late we left the onsen so almost all of the restaurants were already closed. We ended up eating at an Izakaya (Japanese bar).
 
-![居酒屋](/assets/images/2021-12-30-nagano-winter-trip/居酒屋-00.jpg)
+![Izakaya](/assets/images/2021-12-30-nagano-winter-trip/居酒屋-00.jpg)
 
-ブライアンはアルコールアレルギーで、私もアルコールの頻度を減らしたいので二人は居酒屋でソフトドリンク飲んじゃいました。オレンジジューズとサイダーで乾杯したのは面白いと思います。
+Bry has an alcohol allergy and I wanted to reduce my alcohol intake so both of us ordered soft drinks only at the Izakaya (lol). I thought it was funny when said cheers over our glasses of orange juice and soda.
 
-![ソフトドリンク](/assets/images/2021-12-30-nagano-winter-trip/居酒屋-01.jpg)
+![Soft drinks](/assets/images/2021-12-30-nagano-winter-trip/居酒屋-01.jpg)
 
-焼き鳥食べました〜しょっぱすぎてオレンジジューズを注文したのはありがたいです(笑)
+We ate yakitori. It was so salty, so thank god I ordered orange juice to save my tongue lol
 
-![焼き鳥](/assets/images/2021-12-30-nagano-winter-trip/居酒屋-02.jpg)
+![Yakitori](/assets/images/2021-12-30-nagano-winter-trip/居酒屋-02.jpg)
 
-焼きおにぎりを食べたことないので食べました。なぜ茶色かわからなくて玄米だと思っていて超ヘルシーな居酒屋メニューだと思いました。ブライがそれは玄米じゃなくて醤油の効果だよって説明してくれました。間違えましたね(；^ω^）
+I haven't tried Yakionigiri (grilled rice ball) so I ordered it as well. I thought its brown color was because of using brown rice, making me amazed how such a healthy menu can be ordered in a bar. However, Bry said that it wasn't brown rice, but rather due to soy sauce. Oops. (；^ω^）
 
 ![焼きおにぎり](/assets/images/2021-12-30-nagano-winter-trip/居酒屋-03.jpg)
 
-# 二日目
+# The Second Day
 
-## 奥志賀高原スキー場
+## Okushiga Kogen Ski Resort
 
-湯田中駅から奥志賀高原までこのお得な赤いチケットでバスを乗りました。
+We used this discounted red ticket to go to Okushiga Kogen Ski Resort by bus.
 
-![奥志賀高原へのバス](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-00.jpg)
+![Bus](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-00.jpg)
 
-雪の山が綺麗ですね〜これは東京から全然見えない景色なんです。
+The snow-covered mountain is so pretty, right? This is the kind of view that I couldn't see in Tokyo.
 
-![雪の景色](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-01.jpg)
+![Snow view](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-01.jpg)
 
-着いたらリフトのチケットを購入してスキーレンタルしました。
+We bought ski lift tickets and rented some skis.
 
-![スキーレンタル](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-02.jpg)
+![Rental](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-02.jpg)
 
-![スキーレンタル](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-03.jpg)
+![Rental](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-03.jpg)
 
-![スキー地図](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-04.jpg)
+![Map](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-04.jpg)
 
-リフト乗りました。天気がよくてありがたいですヽ(･ˇ∀ˇ･ゞ)
+We rode the lift. Thankfully the weather was good ヽ(･ˇ∀ˇ･ゞ)
 
-![リフト](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-05.jpg)
+![Lift](/assets/images/2021-12-30-nagano-winter-trip/奥志賀高原-05.jpg)
 
-スキースクール、クラスとか受けてないのでスキーのやり方があまりわかりません。他のスキーヤーを見習いながらやってみました。
+We didn't take ski school or class so we were naturally not good at it. I watched the other skiers and tried to copy them.
 
-すごく怯えていましたがやってみたかったです。リフトを降りたらスキーでしか坂を降りられません。その恐怖を少し忘れるようにイヤホンを使いました。陽気な音楽を聴いたらとても恐怖心は和らぎました。音楽に励まされていてわくわくしながら坂を滑り降りました。
+I was very scared but I really wanted to try skiing. Once I got off the lift, there was no other way to go down but to ski. I tried to use my earphones to mask my fear. And it worked, the lively music alleviated my fear a bit, encouraging me to go down the slope. In fact, it excited me.
 
-一方で、よく自信がなくなりました。転ぶのが怖くてパニックに陥っていました。パニックだから体が硬くなっちゃって結局転んでしまいました。転びすぎて何回転んだかがもう数えられないほど多いです。
+However, I often lost my confidence. I was afraid to fall so I panicked a lot. Because of that panic, my body stiffened, making me end up falling. I can't even count how many times I fell, I just knew it was too much. 
 
-初級の坂なのにこれほどへたくそなのは恥ずかしいですね(^～^;)ゞでも大丈夫ですよー。だれでも最初は初心者だからこの経験は当然です。だって、スキーをした理由はエンジョイするためですから。
+It was quite embarrassing because I'm so bad at it despite being on a beginner slope (^～^;)ゞ. But it's okay, I assured myself. It's only reasonable because everyone is a beginner at first. Anyway, my purpose for skiing was to have fun.
 
-とにかくすごく楽しかったです。転んでも雪がすごく柔らかくて全然大丈夫でした。
+To be fair, I had a lot of fun. Even falling several times was okay because the snow was very soft.
 
-でも、知らないこととか、あまりなれていないことをやれば、頭が疲れますね? 言いたいのはスキーで脳の細胞が死んだように精神的に疲れました(~_~メ)
+But doing something you're unfamiliar with is tiring, right? What I want to say is skiing fried my brain too (~_~メ)
 
-## 渋温泉へ
+## Heading towards Shibu Onsen
 
-さきのバスチケットは往復なのでそれを使ってバスで山を降りました。
+Using the same ticket, we went down the hill via bus.
 
-![渋温泉へ](/assets/images/2021-12-30-nagano-winter-trip/渋温泉へ-00.jpg)
+![Same ticket](/assets/images/2021-12-30-nagano-winter-trip/渋温泉へ-00.jpg)
 
-## 夕食
+## Dinner
 
-バス停から少し歩いてハッピーレストランに着きました。
+Walking a bit from the bus stop, we arrived at a restaurant called Happy Restaurant.
 
-![ハッピー](/assets/images/2021-12-30-nagano-winter-trip/ハッピー-00.jpg)
+![Happy](/assets/images/2021-12-30-nagano-winter-trip/ハッピー-00.jpg)
 
-うわ～やっと本物の食べ物なんです（朝食はヨーグルト、ランチはカロリーメイトしか食べなかったもの）！とんかつ定食が結構美味しかったです。
+Finally, some real food here! (Btw, my breakfast was just yogurt and my lunch was just Calorie Mate, a Japanese brand energy bar).
+The tonkatsu (pork cutlet) set that I ordered was quite good.
 
-![ハッピーのかつ](/assets/images/2021-12-30-nagano-winter-trip/ハッピー-01.jpg)
+![Tonkatsu](/assets/images/2021-12-30-nagano-winter-trip/ハッピー-01.jpg)
 
-## 金具屋
+## Kanaguya
 
-帰り道に渋温泉の金具屋に見に行きました。金具屋は歴史の宿です。スタジオジブリの千と千尋の神隠しのモデルだそうです。
+We visited Shibu Onsen's Kanaguya on the way home. It is a historical Japanese inn that inspired Studio Ghibli's Spirited Away, they say.
 
-![金具屋](/assets/images/2021-12-30-nagano-winter-trip/金具屋-00.jpg)
+![Kanaguya](/assets/images/2021-12-30-nagano-winter-trip/金具屋-00.jpg)
 
-渋温泉から歩いて帰りました。雪がもう半解凍されていたのですごく滑りやすかったです。気を付けて歩きました。
+We started to walk back home from Shibu Onsen. Some snow was already half melted so it was very slippery. We threaded carefully.
 
-途中で、この雪で覆われているポストを見ました。私は雪とポストが両方好きで一枚の写真でこの素敵なシーンが撮れるのがいいですね〜さらに真赤なポストは真っ白な雪との対比が綺麗ですね〜
+While walking, I saw this snow-covered post. Snow and posts are two things I like so I was glad to take this picture. The vivid red post has a beautiful contrast with the muted white snow, right?
 
-![ポスト](/assets/images/2021-12-30-nagano-winter-trip/金具屋-01.jpg)
+![Post](/assets/images/2021-12-30-nagano-winter-trip/金具屋-01.jpg)
 
-# 三日目
+# The Last Day
 
-ホステルをチェックアウトして、湯田中駅に向かいました。電車で長野駅に向かいました。時間を潰したいため本を読みました。
+We checked out and headed to Yudanaka Station. From there, we took the train to go to Nagano Station. I wanted to kill time so I read a book.
 
-![本を読んでいる](/assets/images/2021-12-30-nagano-winter-trip/三日目-00.jpg)
+![Reading a book](/assets/images/2021-12-30-nagano-winter-trip/三日目-00.jpg)
 
-着いたらちょうどランチタイムでした。ブライが信州そば食べたかったので駅の立ち食いそば屋さんで月見そばを食べました。立ち食いははじめてでした (人 •͈ᴗ•͈)
+It was lunchtime when we arrived. Bry wanted to eat Shinshu Soba so we ate at a standing soba restaurant at the station. I ordered soba with egg. Note that this was my first time eating at a standing restaurant (人 •͈ᴗ•͈)
 
-![月見そば](/assets/images/2021-12-30-nagano-winter-trip/三日目-01.jpg)
+![Soba](/assets/images/2021-12-30-nagano-winter-trip/三日目-01.jpg)
 
-予約したバスの時間になったらバス停に向かいました。なぜ帰るのがバスかの理由は節約したいからですが、休みはリラックスする時間のはずだから、それほど安っぽくしたくないと二人と決めました。往路が新幹線で復路がバスは満足できる妥協だと思いました。
+It was time for us to ride the bus that we reserved so we headed to the bus stop. We're taking the bus on the way home because we wanted to save. But vacations are supposed to be enjoyed, so we didn't want to cheap out too much. The good compromise would be taking the shinkansen on the way to, and the bus on the way back, we thought.
 
-![バス](/assets/images/2021-12-30-nagano-winter-trip/三日目-02.png)
+![Bus](/assets/images/2021-12-30-nagano-winter-trip/三日目-02.png)
 
-バスを乗って本を読み続けました。
+I read again inside the bus.
 
 ![本を読んでいる](/assets/images/2021-12-30-nagano-winter-trip/三日目-03.png)
 
-その後は、最後にこのレポートを書き終わらせました。全体的に、それはとても素敵な休暇でした。 今回の旅行は、私が雪の上を歩いた中で最も長い時間だと思います。 フィリピン人として熱帯の国で育ち、雪が降るのを見たことがなかったので、長野のような雪の降る場所に行くととても幸せです。
-
-校正者：田中大樹
+After that, I finished writing this report. Overall, these past three days have been a lovely way to spend my vacation. This is the longest time I've walked on snow. As a Filipino, I grew up in a tropical country where there isn't snow so going to a snowy place such as Nagano made me glad.
