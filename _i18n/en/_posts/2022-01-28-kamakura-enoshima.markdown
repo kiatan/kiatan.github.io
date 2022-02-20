@@ -83,6 +83,7 @@ He told me that he can see Mt. Fuji from where he was standing. I already knew I
 
 ## Hiking thoughts
 
+
 - While I was hiking, I started to take notice of the minute things again. For example, as the wind blew, I heard the sound of the rustling leaves. Noticing small details of nature like this made me feel the beauty of living in the world.
 - Hiking is free of distraction, that’s why I like it so much. Being in nature is an escape from the busyness of my city life. I feel refreshed by basking in the green forest. This is the feeling of Shinrin-yoku (a Japanese term for forest bathing). I started having doubts about why I chose to live in such a busy city like Tokyo when I prefer a more laid-back place.
 - I feel grateful living in Japan. First, it is very commuter-friendly. I can easily commute to places such as this without needing a car. Second, because it is not a tropical country, I can do physical activities like hiking without suffering from the heat.

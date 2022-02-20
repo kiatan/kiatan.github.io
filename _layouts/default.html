@@ -31,11 +31,11 @@
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body>
+<body class="{% if site.lang == 'ja' %}ja{% else %}en{% endif %}"> 
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,700&display=swap&family=Source+Sans+Pro&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,700&family=Roboto:wght@300;400,500,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	</noscript>
 
@@ -87,9 +87,17 @@
     <!-- Site Tag
     ================================================== -->
     {% if page.url == '/' %}
-        <p class="site-welcome">
-            {% t welcome %}
-        </p>
+        {% if site.lang == "en" %}
+            <p class="site-welcome">
+                {% t welcome.welcome %} 
+                <span class="name">{% t welcome.name %}</span>
+            </p>
+        {% elsif site.lang == "ja" %}
+            <p class="site-welcome">
+                <span class="name">{% t welcome.name %}</span>
+                {% t welcome.welcome %} 
+            </p>
+        {% endif %}
         <p class="site-description">
             {% t description %}
         </p>

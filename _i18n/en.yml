@@ -7,7 +7,9 @@ pages:
   contact: Contact
   categories: Categories
 navigation: Navigation
-welcome: Welcome to Seikiatsu!
+welcome: 
+  welcome: Welcome to 
+  name: Seikiatsu!
 description: Kia's diary about her life in Japan
 posts:
   written_by: Written by
@@ -15,3 +17,4 @@ posts:
 categories:
   travel: Travel
   culture: Culture
+share: Share

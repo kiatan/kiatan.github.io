@@ -7,7 +7,9 @@ pages:
   contact: 連絡先
   categories: カテゴリー
 navigation: ナビゲーション
-welcome: Seikiatsuへようこそ！
+welcome: 
+  welcome: へようこそ！
+  name: Seikiatsu
 description: Kiaの日本での生活についての日記
 posts:
   written_by: 投稿者
@@ -15,3 +17,4 @@ posts:
 categories:
   travel: 旅行
   culture: 文化
+share: シェア
