@@ -64,10 +64,10 @@ if (raf) raf(function () {
 else window.addEventListener('load', loadDeferredStyles);
 
 
-// Reset animations on page: body.preload
-setTimeout(function(){
-	document.body.className="";
-},500);
+// // Reset animations on page: body.preload
+// setTimeout(function(){
+// 	document.body.className="";
+// },500);
 
 // Open/close navigation when clicked .nav-icon
 $(document).ready(function(){
@@ -81,6 +81,7 @@ $(document).ready(function(){
 		$("#blackover-nav").toggleClass('active');
 	});
 	$(".nav-icon").click(function(){
+		console.log(document.body.className);
 		$("body").toggleClass('active-side');
 	});
 });
