@@ -590,12 +590,14 @@ img:hover {
   opacity: 0;
   transition: opacity 0.5s linear;
   &.search--show {
+    width: 100%;
     visibility: visible;
     opacity: 1;
     transition: opacity 0.5s linear;
   }
 }
 .wrap-search {
+  width: 350px;
   position: fixed;
   left: 30px;
   bottom: 25px;
@@ -633,6 +635,7 @@ img:hover {
 }
 body.active-side {
   .bd-search {
+    width: 100%;
     visibility: visible;
     opacity: 1;
     transition: opacity 0.5s linear;

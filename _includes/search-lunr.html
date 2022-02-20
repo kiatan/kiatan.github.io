@@ -3,7 +3,7 @@
 <style>
     
 </style>
-
+{% if site.lang == "en" %}
 <div class="wrap-search">
     <div class="d-flex align-items-center ml-auto">
         <i class="fas fa-search show-search"></i>
@@ -12,6 +12,7 @@
         </form>
     </div>
 </div>
+{% endif %}
 
 <div id="lunrsearchresults">
     <ul></ul>
