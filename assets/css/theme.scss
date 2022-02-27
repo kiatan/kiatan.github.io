@@ -31,7 +31,7 @@ body {
   h1,
   h2,
   h3 {
-    font-family: "Playfair Display";
+    font-family: "Roboto";
   }
 
   h4,
@@ -137,7 +137,6 @@ img {
   min-width: 180px;
 }
 blockquote {
-  font-family: Times New Roman;
   font-style: italic;
   font-size: 20px;
   position: relative;
@@ -342,6 +341,7 @@ img:hover {
     }
   }
   .card-title {
+    font-family: Roboto;
     font-weight: 600;
     font-size: 22px;
     line-height: 1.4;
@@ -380,12 +380,20 @@ img:hover {
     margin-top: 10px;
   }
   .img-thumb {
+    filter: sepia(0.5) brightness(0.9) hue-rotate(-30deg);
     object-fit: cover;
     height: 240px;
     width: 100%;
     object-position: top;
   }
 }
+
+.blog-grid-item:hover {
+  .img-thumb {
+    filter: none;
+  }
+}
+
 .firstpage {
   .blog-grid-item:nth-child(1) {
     grid-column-start: 1;
@@ -498,6 +506,7 @@ img:hover {
   margin-right: auto;
 }
 .posttitle {
+  font-family: "Playfair Display", "Noto Sans JP";
   font-size: 50px;
   font-weight: 700;
   line-height: 1.2;

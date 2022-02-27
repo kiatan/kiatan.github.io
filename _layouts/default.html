@@ -6,7 +6,15 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
+{% if page.url contains "/about" 
+    or page.url contains "/categories"  
+    or page.url contains "/contact"  
+    or page.url contains "/authors"  
+    or page.url == "/" %}
+<title>{% t {{ page.title }} %} | {{site.name}}</title>
+{% else %}
 <title>{{ page.title }} | {{site.name}}</title>
+{% endif %}
 
 {% seo %}
     

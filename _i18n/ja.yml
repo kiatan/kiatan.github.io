@@ -18,3 +18,11 @@ categories:
   travel: 旅行
   culture: 文化
 share: シェア
+authors: 投稿者
+contact:
+  description: Seikiatsuにメッセージを送ってください。 できるだけ早く返信します！
+  name: お名前
+  email: メールアドレス
+  message: メッセージ
+  send: 送信する
+about: せきあつは、日本語「生活」の言葉遊びです。 このサイトは、キアの日常生活とそれについてのキアの考えについてです。
