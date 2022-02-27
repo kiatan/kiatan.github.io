@@ -12,15 +12,15 @@ var documents = [
         {
             "id": 1,
             "url": "/ja/about",
-            "title": "Seikiatsuについて",
-            "body": "Seikiatsu is a play on the Japanese word 生活 (seikatsu) which means “living. ” This site is about Kia’s daily life and her thoughts about it. "
+            "title": "pages.about",
+            "body": "せきあつは、日本語「生活」の言葉遊びです。 このサイトは、キアの日常生活とそれについてのキアの考えについてです。 "
             }, 
         
     
         {
             "id": 2,
             "url": "/ja/authors",
-            "title": "Authors",
+            "title": "authors",
             "body": "                                                                                                                                                                                    Kia:         Seikiatsuのキア。The Kia in Seikiatsu                "
             }, 
         
@@ -28,7 +28,7 @@ var documents = [
         {
             "id": 3,
             "url": "/ja/categories",
-            "title": "Categories",
+            "title": "pages.categories",
             "body": ""
             }, 
         
@@ -36,8 +36,8 @@ var documents = [
         {
             "id": 4,
             "url": "/ja/contact",
-            "title": "Contact",
-            "body": "  Please send your message to Seikiatsu. We will reply as soon as possible!   "
+            "title": "pages.contact",
+            "body": "  Seikiatsuにメッセージを送ってください。 できるだけ早く返信します！   "
             }, 
         
     
@@ -47,7 +47,7 @@ var documents = [
         {
             "id": 5,
             "url": "/ja/",
-            "title": "Home",
+            "title": "pages.home",
             "body": "                                                                                               鎌倉で癒しの旅に行った              :       忙しい東京生活から少し離れて鎌倉に行きました。:                                                                               Kia                 28 Jan 2022                                                                                                                           初めての書道体験              :       先週の土曜日に初めての書道を体験しました。:                                                                               Kia                 26 Jan 2022                                                                                                                           冬休みを長野で過ごした              :       休みを雪で過ごしたいため、長野に行きました。:                                                                               Kia                 31 Dec 2021                                "
             }, 
         

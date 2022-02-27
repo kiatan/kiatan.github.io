@@ -3,10 +3,10 @@
   <channel>
     <title>Seikiatsu</title>
     <description>Welcome to Seikiatsu. Kia&apos;s diary about her seikatsu in Japan.</description>
-    <link>http://localhost:4000/ja/</link>
-    <atom:link href="http://localhost:4000/ja/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Feb 2022 14:15:35 +0900</pubDate>
-    <lastBuildDate>Sun, 20 Feb 2022 14:15:35 +0900</lastBuildDate>
+    <link>/ja/</link>
+    <atom:link href="/ja/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 Feb 2022 11:49:40 +0900</pubDate>
+    <lastBuildDate>Sun, 27 Feb 2022 11:49:40 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -245,8 +245,8 @@
 &lt;p&gt;校正者：田中大樹&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Jan 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/ja/kamakura-enoshima/</link>
-        <guid isPermaLink="true">http://localhost:4000/ja/kamakura-enoshima/</guid>
+        <link>/ja/kamakura-enoshima/</link>
+        <guid isPermaLink="true">/ja/kamakura-enoshima/</guid>
         
         
         <category>旅行</category>
@@ -302,8 +302,8 @@
 &lt;p&gt;校正者：田中大樹&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Jan 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/ja/first-shodo/</link>
-        <guid isPermaLink="true">http://localhost:4000/ja/first-shodo/</guid>
+        <link>/ja/first-shodo/</link>
+        <guid isPermaLink="true">/ja/first-shodo/</guid>
         
         
         <category>文化</category>
@@ -586,8 +586,8 @@
 &lt;p&gt;校正者：田中大樹&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Dec 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/ja/nagano-winter-trip/</link>
-        <guid isPermaLink="true">http://localhost:4000/ja/nagano-winter-trip/</guid>
+        <link>/ja/nagano-winter-trip/</link>
+        <guid isPermaLink="true">/ja/nagano-winter-trip/</guid>
         
         
         <category>旅行</category>

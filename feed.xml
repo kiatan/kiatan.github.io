@@ -3,10 +3,10 @@
   <channel>
     <title>Seikiatsu</title>
     <description>Welcome to Seikiatsu. Kia&apos;s diary about her seikatsu in Japan.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Feb 2022 14:15:34 +0900</pubDate>
-    <lastBuildDate>Sun, 20 Feb 2022 14:15:34 +0900</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 Feb 2022 11:49:38 +0900</pubDate>
+    <lastBuildDate>Sun, 27 Feb 2022 11:49:38 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -259,8 +259,8 @@
 &lt;p&gt;As I arrived home, it felt like I was gone for a very long time. I think it means that I made full use of my two days one night holiday. I did many things, and I was alone. Being alone with my thoughts the whole time, helped me hear my intuition/my heart, which I probably neglected recently. That being said, I think my very cluttered brain came home more organized. In a sense, I fulfilled the purpose of taking a paid leave.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Jan 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/kamakura-enoshima/</link>
-        <guid isPermaLink="true">http://localhost:4000/kamakura-enoshima/</guid>
+        <link>/kamakura-enoshima/</link>
+        <guid isPermaLink="true">/kamakura-enoshima/</guid>
         
         
         <category>Travel</category>
@@ -314,8 +314,8 @@
 &lt;p&gt;Overall, I enjoyed experiencing Japanese culture such as shodo. Thanks to the calligrapher Kisen-san’s bubbly personality, we also felt cheerful. I learned many things about shodo, making me want to write more kanji characters in the future.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Jan 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/first-shodo/</link>
-        <guid isPermaLink="true">http://localhost:4000/first-shodo/</guid>
+        <link>/first-shodo/</link>
+        <guid isPermaLink="true">/first-shodo/</guid>
         
         
         <category>Culture</category>
@@ -598,8 +598,8 @@ The tonkatsu (pork cutlet) set that I ordered was quite good.&lt;/p&gt;
 &lt;p&gt;After that, I finished writing this report. Overall, these past three days have been a lovely way to spend my vacation. This is the longest time I’ve walked on snow. As a Filipino, I grew up in a tropical country where there isn’t snow so going to a snowy place such as Nagano made me glad.&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Dec 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/nagano-winter-trip/</link>
-        <guid isPermaLink="true">http://localhost:4000/nagano-winter-trip/</guid>
+        <link>/nagano-winter-trip/</link>
+        <guid isPermaLink="true">/nagano-winter-trip/</guid>
         
         
         <category>Travel</category>

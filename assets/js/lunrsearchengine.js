@@ -12,7 +12,7 @@ var documents = [
         {
             "id": 1,
             "url": "/about",
-            "title": "Seikiatsuについて",
+            "title": "pages.about",
             "body": "Seikiatsu is a play on the Japanese word 生活 (seikatsu) which means “living. ” This site is about Kia’s daily life and her thoughts about it. "
             }, 
         
@@ -20,7 +20,7 @@ var documents = [
         {
             "id": 2,
             "url": "/authors",
-            "title": "Authors",
+            "title": "authors",
             "body": "                                                                                                                                                                                    Kia:         Seikiatsuのキア。The Kia in Seikiatsu                "
             }, 
         
@@ -28,7 +28,7 @@ var documents = [
         {
             "id": 3,
             "url": "/categories",
-            "title": "Categories",
+            "title": "pages.categories",
             "body": ""
             }, 
         
@@ -36,7 +36,7 @@ var documents = [
         {
             "id": 4,
             "url": "/contact",
-            "title": "Contact",
+            "title": "pages.contact",
             "body": "  Please send your message to Seikiatsu. We will reply as soon as possible!   "
             }, 
         
@@ -47,7 +47,7 @@ var documents = [
         {
             "id": 5,
             "url": "/",
-            "title": "Home",
+            "title": "pages.home",
             "body": "                                                                                               A Retreat to Kamakura              :       I went to Kamakura for a small retreat from my busy Tokyo life. :                                                                               Kia                 28 Jan 2022                                                                                                                           My First Japanese Calligraphy Experience              :       I experienced Japanese calligraphy (shodo) for the first time last Saturday. :                                                                               Kia                 26 Jan 2022                                                                                                                           Spending my winter holidays in Nagano              :       I wanted to spend my holidays in a snowy place so I went to Nagano. :                                                                               Kia                 31 Dec 2021                                "
             }, 
         
