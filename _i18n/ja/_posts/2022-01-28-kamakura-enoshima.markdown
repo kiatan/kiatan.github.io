@@ -3,7 +3,7 @@ layout: post
 title:  "鎌倉で癒しの旅に行った"
 author: kia
 date:   2022-01-28
-categories: 旅行
+categories: 旅行 ハイキング
 image: assets/images/2022-01-28-kamakura-enoshima/22.png
 comments: false
 ---
