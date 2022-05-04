@@ -10,7 +10,7 @@ comments: false
 
 I wanted to hike with my friend, Maru, to see flowers. However, as it is still too early for spring, I decided to ask him out on a cycling trip instead. Two birds in one stone I thought. I get to practice my nearly non-existent cycling skills and I get to spend time with Maru.
 
-Preparation
+# Preparation
 
 Because I am the one who initiated this trip, I had to come up with a rough plan. I don’t mind it at all as I love planning and Maru seems to be relatively open to things.
 
@@ -22,7 +22,7 @@ Luckily, there is another mainstream renting service called Hello Cycling. It se
 
 I asked Maru where his nearest train station was and I was surprised that he answered the station name and its number. I almost never used station numbers so I found it amusing. Considering where he is coming from, I looked for a station where we could meet on the way to our cycling starting point, Musashi-Sakai Station. Then, I drafted a rough timetable and sent it, together with some pointers to consider, to Maru on the day before the big day. 
 
-The Day
+# The Day
 
 Before leaving my house, I had a quick call with my Japanese teacher to practice my speaking. We have a practice every Saturday and I was lucky enough that he was willing to accommodate my fairly early schedule this day. I did not feel like eating so I just drank a cafe latte, thinking the caffeine would energize me.
 
@@ -201,6 +201,7 @@ I have reached where I needed to transfer trains so I said goodbye and expressed
 
 After a few more trains and several more stations, I was able to get home. I unpacked and saw my last piece of mikan. Thank god, it didn’t become juice, I thought.
 
+# Footnote
 
 (1) I always feel iffy whenever I type <river_name>gawa River because "gawa" means river in Japanese so when I say Tamagawa River, in my head it goes like "Tama River River"
 
@@ -213,7 +214,7 @@ After a few more trains and several more stations, I was able to get home. I unp
 
 ---
 
-Acknowledgment
+# Acknowledgment
 
 Maru: Thank you for your patience and for hanging out with me. I learned a lot from you and it was such a fun experience!
 
