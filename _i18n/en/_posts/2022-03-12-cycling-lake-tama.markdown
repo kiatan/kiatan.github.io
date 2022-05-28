@@ -10,6 +10,8 @@ comments: false
 
 I wanted to hike with my friend, Maru, to see flowers. However, as it is still too early for spring, I decided to ask him out on a cycling trip instead. Two birds in one stone I thought. I get to practice my nearly non-existent cycling skills and I get to spend time with Maru.
 
+(My friend's name is not Maru but I have changed it as per his request.)
+
 # Preparation
 
 Because I am the one who initiated this trip, I had to come up with a rough plan. I don’t mind it at all as I love planning and Maru seems to be relatively open to things.
@@ -80,7 +82,7 @@ After a few more couple of obstacles, they’ve finally lessened to a point wher
 
 The second half of the ride to this point was way quicker not only because of the fewer obstacles but also because I was starting to gain a bit of confidence, giving me a sense of control to just keep going on. After the hurricane, comes the rainbow, as Katy Perry said in her Fireworks song.
 
-Long stretches of no obstacles or people, after the hurricane, comes a rainbow, as Katy Perry said in Fireworks. I definitely deserve some fireworks for reaching here, after all, I have already cycled 13 km up to this point. And for someone who couldn’t ride a bike for a 100m or so without panicking just a month or two before.
+I definitely deserve some fireworks for reaching here, after all, I have already cycled 13 km up to this point. And for someone who couldn’t ride a bike for a 100m or so without panicking just a month or two before.
 
 We paused and took a selfie to celebrate.
 
